@@ -4,6 +4,7 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
+        <roles>sn_test_local_app.table1_user</roles>
         <description/>
         <name>sn_testdemoprepo_table1</name>
         <operation display_value="delete">delete</operation>
